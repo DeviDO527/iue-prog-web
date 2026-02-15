@@ -1,1 +1,24 @@
-# iue-prog-web
+# Agencia Web
+
+## Integrantes
+
+- Juan José Lopera Londoño
+- Juan David Berrio Rivera
+
+## Tecnologías usadas
+
+- HTML5
+- Git
+- GitHub
+
+## Cómo ejecutar el proyecto
+
+1. Clonar el repositorio
+2. Abrir index.html en el navegador
+
+## Flujo de trabajo utilizado
+
+- Creación de ramas
+- Integración mediante merge
+- Resolución de conflictos
+- Reversión de cambios
